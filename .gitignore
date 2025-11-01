@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+beanflow_env/
+venv/
+env/
+ENV/
+
+# Output files
+beanflow_output/
+*.mp4
+*.mp3
+*.m4a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+temp-audio.m4a
+clip_*.mp4
