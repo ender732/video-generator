@@ -1,6 +1,6 @@
 # BeanFlow Video Generator
 
-A free, open-source text-to-video generator for creating your BeanFlow pitch video.
+A free, open-source text-to-video generator for creating your pitch video.
 
 ## Features
 
